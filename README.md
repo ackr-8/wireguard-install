@@ -5,7 +5,7 @@ The server will apply NAT to the client's traffic so it will appear as if the cl
 Supported distributions:
 
 - Ubuntu >= 16.04
-- Debian 10
+- Debian >= 10
 - Fedora
 - CentOS
 - Arch Linux
